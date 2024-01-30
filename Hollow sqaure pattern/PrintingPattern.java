@@ -1,3 +1,10 @@
+/*
+n=4
+****
+*  *
+*  *
+****
+*/
 package jhansi;
 
 import java.util.Scanner;
